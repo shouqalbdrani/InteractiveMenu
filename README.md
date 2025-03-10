@@ -15,15 +15,10 @@ The **Interactive Menu** is user interface build with Jetpack Compose that displ
 
 To run this project, follow the steps below:
 
-### Prerequisites:
-- [Android Studio](https://developer.android.com/studio) installed.
-- Basic knowledge of Kotlin and Jetpack Compose.
-- Run Your Emulator
-
 ### Steps to Run the App:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/InteractiveMenu.git
+- [Android Studio](https://developer.android.com/studio) installed.
+- Run Your Emulator.
+- Navigate to MainActivity.kt the Run it.
 
 
 ### Screenshot:
