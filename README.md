@@ -25,4 +25,7 @@ To run this project, follow the steps below:
    ```bash
    git clone https://github.com/yourusername/InteractiveMenu.git
 
-   ### ScreenShots
+
+### Screenshot
+![Screenshot 2025-03-10 192935](https://github.com/user-attachments/assets/64b660f8-d2ce-4dfb-8179-4dfee00d1d89)
+![Screenshot 2025-03-10 192945](https://github.com/user-attachments/assets/e9368d3e-d49c-4bb6-9536-4802fcbc2535)
