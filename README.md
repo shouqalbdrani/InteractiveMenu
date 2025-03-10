@@ -18,7 +18,7 @@ To run this project, follow the steps below:
 ### Steps to Run the App:
 - [Android Studio](https://developer.android.com/studio) installed.
 - Run Your Emulator.
-- Navigate to MainActivity.kt the Run it.
+- Navigate to MainActivity.kt then Run it.
 
 
 ### Screenshot:
