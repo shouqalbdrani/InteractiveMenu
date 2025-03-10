@@ -1,7 +1,7 @@
 # InteractiveMenu
 
 ## Description
-The **Interactive Menu** is a mobile application built with Jetpack Compose that displays a menu with different food categories and items. The app features:
+The **Interactive Menu** is user interface build with Jetpack Compose that displays a menu with different food categories and items. The app features:
 - A scrolling list of categories (e.g., Burgers, Pizza, Salads).
 - A list of food items under categories.
 - A name ,description, price, and image for each menu item.
@@ -26,6 +26,6 @@ To run this project, follow the steps below:
    git clone https://github.com/yourusername/InteractiveMenu.git
 
 
-### Screenshot
-![Screenshot 2025-03-10 192945](https://github.com/user-attachments/assets/d923bd9e-f3f8-4374-9e61-2da1b17ca3d9)
+### Screenshot:
 ![Screenshot 2025-03-10 192935](https://github.com/user-attachments/assets/f748acb7-9445-4d99-9d5f-3650d18a7956)
+![Screenshot 2025-03-10 192945](https://github.com/user-attachments/assets/d923bd9e-f3f8-4374-9e61-2da1b17ca3d9)
