@@ -83,6 +83,13 @@ fun MenuItem(
                 fontSize = 14.sp,
                 color = Color.Black
             )
+        if (itemData.isPopular){
+            Text(
+                text = "Popular",
+                fontSize = 14.sp,
+                fontWeight = FontWeight.Bold
+            )
+        }
 
         }
 

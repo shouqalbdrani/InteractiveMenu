@@ -51,7 +51,7 @@ data class MenuItem(
             description = "Crisp romaine lettuce, parmesan cheese, and Caesar dressing.",
             category = FoodCategory.Example3,
             imageItem = R.drawable.caesar,
-            isPopular = true
+            isPopular = false
         )
 
         val Example2 = MenuItem(
@@ -82,7 +82,7 @@ data class MenuItem(
             description = "classic pizza with fresh tomatoes and mozzarella , and olive oil.",
             category = FoodCategory.Example2,
             imageItem = R.drawable.pepp_piza,
-            isPopular = true
+            isPopular = false
 
         )
 
